@@ -7,15 +7,16 @@ Queensland University of Technology (QUT)
 
 ## About Me
 
-Electrical Engineering student interested in electronics, circuit design, programming and mathematical modelling.
+Interested in electrical engineering, electronics, circuit design, power systems, programming and mathematical modelling, with a focus on practical engineering applications.
 
 ## Areas of Interest
 
 - Electrical and Electronic Engineering
+- Power Systems and Renewable Energy
 - Circuit Design and PCB Development
-- Programming and Simulation
-- Mathematical Modelling
-- Signal and Image Processing
+- Control Systems and Automation
+- Signal Processing and Communications
+- Programming, Simulation and Mathematical Modelling
 
 ## Programming Languages
 
@@ -27,14 +28,23 @@ Electrical Engineering student interested in electronics, circuit design, progra
 
 ## Projects
 
-### Image and Audio Processing
-MATLAB project involving image and audio encoding, binary data conversion and least significant bit (LSB) techniques.
+### Power Systems and Renewable Energy
+Designed and simulated electrical power systems and interconnected grids, analysing power flow, system performance and electrical network behaviour.
 
-### Mathematical Modelling
-Mathematical modelling and simulation projects involving optimisation, game theory and numerical methods.
+### Electrical and Electronic Engineering
+Analysed and designed electrical circuits and systems, applying circuit theory, mathematical calculations and engineering principles.
 
-### Electronics and Circuit Design
-Interested in electronic circuit development, PCB design and practical engineering applications.
+### Control Systems and Automation
+Modelled mechanical and electrical dynamic systems using mathematical equations, developing transfer functions to analyse system behaviour, stability and feedback control.
+
+### Signal Processing and Communications
+Analysed signals in the time and frequency domains, applying Fourier transforms, filtering and modulation techniques to recover and process transmitted information.
+
+### Circuit Design and PCB Development
+Explored electronic circuit design, component selection and circuit analysis, with applications in electronic hardware and PCB development.
+
+### Programming, Simulation and Mathematical Modelling
+Developed computational models and simulations using programming and numerical methods to analyse engineering and mathematical problems.
 
 ## GitHub Statistics
 
