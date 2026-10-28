@@ -12,7 +12,7 @@ Interested in electrical engineering, electronics, circuit design, power systems
 ## Areas of Interest
 
 - Electrical and Electronic Engineering
-- Power Systems and Renewable Energy
+- Power Systems and Electrical Networks
 - Circuit Design and PCB Development
 - Control Systems and Automation
 - Signal Processing and Communications
@@ -28,7 +28,7 @@ Interested in electrical engineering, electronics, circuit design, power systems
 
 ## Projects
 
-### Power Systems and Renewable Energy
+### Power Systems and Electrical Networks
 Designed and simulated electrical power systems and interconnected grids, analysing power flow, system performance and electrical network behaviour.
 
 ### Electrical and Electronic Engineering
@@ -46,12 +46,13 @@ Explored electronic circuit design, component selection and circuit analysis, wi
 ### Programming, Simulation and Mathematical Modelling
 Developed computational models and simulations using programming and numerical methods to analyse engineering and mathematical problems.
 
+<!--
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarryBateman&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryBateman&layout=compact&theme=tokyonight)
-
+-->
 
 
 <!--
