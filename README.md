@@ -26,6 +26,16 @@ Interested in electrical engineering, electronics, circuit design, power systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+<h2 align="center">Programming Languages</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</p>
+
 ## Projects
 
 ### Power Systems and Electrical Networks
